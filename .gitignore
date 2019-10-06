@@ -1,0 +1,10 @@
+.packages
+.flutter-plugins
+pubspec.lock
+build/
+.idea/
+.gradle/
+key.properties
+local.properties
+GoogleService-Info.plist
+google-services.json
