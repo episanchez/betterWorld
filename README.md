@@ -5,6 +5,4 @@ The application use the flutter framework and is written in Dart.
 
 *Website* : https://betterworld.social/
 
-## Some Screenshots
-
 
